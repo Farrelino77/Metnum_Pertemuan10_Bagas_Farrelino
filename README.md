@@ -5,6 +5,6 @@ Implementasi Metode Polinom Lagrage dan Newton pada Hasil Hitung Fisika Mengguna
 Langkah-langkah menjalankan kode :
 1. instalasi library
    jalankan perintah berikut di Visual Studio Code :
-   py -m pip install scipy
-   pip install numpy
-   pip install numpy matplotlib
+   1. py -m pip install scipy
+   2. pip install numpy
+   3. pip install numpy matplotlib
